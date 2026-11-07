@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Autodesk_Cache_File>
+  <cacheType Type="OneFilePerFrame" Format="mcx"/>
+  <time Range="0--1"/>
+  <cacheTimePerFrame TimePerFrame="250"/>
+  <cacheVersion Version="2.0"/>
+  <extra>D:/Nurasyl/Discipline/VFX_3D_physics/lab_5_explosion/mark2.mb</extra>
+  <extra>maya 2026</extra>
+  <extra>kalma</extra>
+  <Channels>
+    <channel0 ChannelName="fluidShape1_resolution" ChannelType="FloatArray" ChannelInterpretation="resolution" SamplingType="Regular" SamplingRate="0" StartTime="0" EndTime="-1"/>
+  </Channels>
+</Autodesk_Cache_File>

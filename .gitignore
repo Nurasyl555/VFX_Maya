@@ -1,0 +1,52 @@
+# Maya Simulation Caches & Baked Dynamics
+*.mcx
+*.mcfi
+*.bif
+*.bin
+*.geo
+*.pc2
+*.xml.cache
+
+# Arnold / Renderman Pre-baked Textures & Swatches
+*.tx
+*.swatch
+*.swatches
+.mayaSwatches/
+*.mayaSwatches
+
+# Heavy Raw Uncompressed Videos
+*.avi
+
+# Compressed Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Render Outputs, Passes & Image Sequences
+*.exr
+**/render/
+**/render_png/
+**/seq/
+**/seq1/
+**/iprImages/
+renderData/
+lab_5_explosion/image/
+*.[0-9][0-9][0-9][0-9].*
+*.[0-9][0-9][0-9].*
+
+# Autosave & Temporary Files
+autosave/
+**/autosave/
+*autosave*
+*Auto-Save*/
+*.tmp
+*.bak
+*.log
+autodesk_backup_code.txt
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+._*
